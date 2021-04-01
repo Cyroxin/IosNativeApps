@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="NSParlamentMember" representedClassName=".NSParlamentMember" syncable="YES">
+        <attribute name="firstname" optional="YES" attributeType="String"/>
+        <attribute name="lastname" optional="YES" attributeType="String"/>
+        <attribute name="minister" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="party" optional="YES" attributeType="String"/>
+        <attribute name="pictureUrl" optional="YES" attributeType="String"/>
+        <attribute name="seatNumber" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="NSParlamentMember" positionX="572.09765625" positionY="-129.125" width="150.1015625" height="133"/>
+    </elements>
+</model>
