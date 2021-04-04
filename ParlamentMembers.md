@@ -5,7 +5,7 @@
 
 ## Description
 
-A table using custom cells showing current parlament members. I
+A table using custom cells showing current parlament members. Data is fetched from the the Finnish Parlament's API.
 
 ## Images
 
