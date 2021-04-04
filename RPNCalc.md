@@ -1,6 +1,6 @@
  # [<](README.md)
-|  ![image](/Assets/RPNCalc/appimg8.jpeg) |
-| ------ |
+|  ![image](/Assets/RPNCalc/appimg8.jpeg) | ![image](/Assets/RPNCalc/appimg2.jpeg)
+ | :------ | :-------- 
 
 ## Description
 
