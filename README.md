@@ -2,7 +2,7 @@
 
 
 # XCode Examples [![logo](applet.png)]()
-Repository of example applications for IOS! Made in Xcode 11.4.1 using Swift.
+Repository of example applications for IOS! Made in Xcode 11.4.1 using Swift 5.
 
 
 ## Applications
