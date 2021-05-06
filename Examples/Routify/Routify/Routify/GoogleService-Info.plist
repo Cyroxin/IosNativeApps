@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>886005687104-3vadg2cepu6lqme9ft1jjnebjrgni466.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.886005687104-3vadg2cepu6lqme9ft1jjnebjrgni466</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWhBE60eec5kGYe1xnbM8kMlUXoX_hgv0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>886005687104</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cyroxin.Routify</string>
+	<key>PROJECT_ID</key>
+	<string>routifyapi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>routifyapi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:886005687104:ios:b2b7aea8e9570c615910a5</string>
+</dict>
+</plist>
